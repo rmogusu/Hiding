@@ -1,6 +1,9 @@
 #image-showing {
   display: none;
 }
+#giant-showing {
+  display: none;
+}
 .clickable {
 cursor: pointer;
 color: #0088cc;
